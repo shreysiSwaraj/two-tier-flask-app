@@ -17,7 +17,7 @@ pipeline{
             }
             
         }
-        stage("Test"){
+        stage("Testing"){
             steps{
                 echo "Developer / Tester tests likh ke dega..."
             }
